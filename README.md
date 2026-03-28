@@ -183,7 +183,7 @@ GROQ_MODEL=llama-3.3-70b-versatile
 
 ## More Detail
 
-For the full build story, design decisions, MVP scope, implementation narrative, and roadmap, see [development.md]
+For the full build story, design decisions, MVP scope, implementation narrative, and roadmap, see [[DEVELOPMENT.md](https://github.com/Vedika-Sd/ComplianceOS-v1/blob/main/DEVELOPMENT.md)]
 
 ## Conclusion
 
