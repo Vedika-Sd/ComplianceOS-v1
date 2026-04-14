@@ -56,6 +56,18 @@ ComplianceOS designed as a **hybrid agentic system**, not a pure LLM workflow.
 
 This matters because compliance is a trust-heavy domain. I do not want the model inventing obligations. The model helps explain; the rule engine decides.
 
+## UI 
+---
+<img width="1366" height="685" alt="image" src="https://github.com/user-attachments/assets/efd10ef2-943e-4266-8c07-4d7840f419a7" />
+
+<img width="1364" height="646" alt="image" src="https://github.com/user-attachments/assets/bec03d92-95b3-4180-9ef4-dbcac2610d88" />
+
+<img width="1366" height="684" alt="image" src="https://github.com/user-attachments/assets/b8c939f4-4060-4520-86de-bfe4e127c4d3" />
+
+<img width="1356" height="639" alt="image" src="https://github.com/user-attachments/assets/b94b8ed6-a1da-4e81-a69c-f18e438772b1" />
+
+<img width="1362" height="691" alt="image" src="https://github.com/user-attachments/assets/de4c883e-9f77-4d70-93a2-7e64bd386272" />
+
 ## Agentic Workflow
 
 ComplianceOS is organized into five focused agents:
